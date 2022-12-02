@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-https://lazypanda888.github.io/development2
+https://lazypanda888.github.io/development-main
 
 ### Goal and Value of the Application
 The goal of this application is to allow users to quickly place a boba order. The value of the application is that it makes it easier for users to navigate through the menu items by clicking on a drink type and narrow down their choices by selecting the desired caffeine type. Users can also sort the drinks by prices from low to high. These types of filter and sort options make it easier for the user to get to what they want. 
