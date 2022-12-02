@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Classic Milk Tea",
+    "description": "Our Boba Guys Blend No. 1 from Tea People. The staple of boba milk tea.",
+    "price": 5.49,
+    "type": "Milk Tea",
+    "caffeine": "Caffeinated",
+    "image": "tea_images/ClassicBlack.jpeg",
+    "rank": 1
+  },
+  {
+    "name": "Decaf Black Milk Tea",
+    "description": "Our Decaf Black from Tea People. A full-bodied black tea without the kick.",
+    "price": 5.49,
+    "type": "Milk Tea",
+    "caffeine": "Decaffeinated",
+    "image": "tea_images/DecafBlack.jpeg",
+    "rank": 12
+  },
+  {
+    "name": "Jasmine Milk Tea",
+    "description": "Our Jasmine Green from Tea People. Floral and silky.",
+    "price": 5.49,
+    "type": "Milk Tea",
+    "caffeine": "Caffeinated",
+    "image": "tea_images/JasmineGreen.jpeg",
+    "rank": 2
+  },
+  {
+    "name": "Rose Black Milk Tea",
+    "description": "A Ceylon black tea with a sweet fullness of delicate young rosebuds and petals.",
+    "price": 5.99,
+    "type": "Milk Tea",
+    "caffeine": "Caffeinated",
+    "image": "tea_images/RoseBlack.jpeg",
+    "rank": 4
+  },
+  {
+    "name": "Hong Kong Milk Tea",
+    "description": "A robust but sweet premium loose leaf black tea blended with condensed milk.",
+    "price": 5.99,
+    "type": "Milk Tea",
+    "caffeine": "Caffeinated",
+    "image": "tea_images/HongKongMilkTea.jpeg",
+    "rank": 6
+  },
+  {
+    "name": "Espresso Milk Tea",
+    "description": "Bold and shaken espresso and black tea.",
+    "price": 6.49,
+    "type": "Milk Tea",
+    "caffeine": "Caffeinated",
+    "image": "tea_images/EspressoMilkTea.png",
+    "rank": 11
+  },
+  {
+    "name": "Strawberry Fields",
+    "description": "Your choice of milk layered over our housemade strawberry puree.",
+    "price": 6.49,
+    "type": "Specialty",
+    "caffeine": "Decaffeinated",
+    "image": "tea_images/StrawberryRiceMilk.jpeg",
+    "rank": 3
+  },
+  {
+    "name": "Ube Latte",
+    "description": "Light and airy - housemade ube puree with coconut milk and a touch of cardamom.",
+    "price": 6.49,
+    "type": "Specialty",
+    "caffeine": "Decaffeinated",
+    "image": "tea_images/UbeLatte.jpeg",
+    "rank": 5
+  },
+  {
+    "name": "Thai Tea",
+    "description": "Brewed from Ceylon green tea and combined with dairy milk and condensed milk.",
+    "price": 5.99,
+    "type": "Specialty",
+    "caffeine": "Caffeinated",
+    "image": "tea_images/ThaiTea.jpeg",
+    "rank": 9
+  },
+  {
+    "name": "Korean Banana Milk",
+    "description": "Creamy and uniquely sweet - our take on Korea's Banana Milk. Housemade banana jam paired with oat milk.",
+    "price": 6.49,
+    "type": "Specialty",
+    "caffeine": "Caffeinated",
+    "image": "tea_images/KoreanBananaMilk.jpeg",
+    "rank": 7
+  },
+  {
+    "name": "Dirty Banana Milk",
+    "description": "Creamy and uniquely sweet - our take on Korean Banana Milk with a shot of espresso from Proyecto Diaz.",
+    "price": 6.99,
+    "type": "Specialty",
+    "caffeine": "Decaffeinated",
+    "image": "tea_images/DirtyBananaMilk.jpeg",
+    "rank": 8
+  },
+  {
+    "name": "Horchata",
+    "description": "Housemade with rice milk, cinnamon, sugar and a splash of almond milk for taste.",
+    "price": 5.99,
+    "type": "Specialty",
+    "caffeine": "Decaffeinated",
+    "image": "tea_images/Horchata.jpeg",
+    "rank": 10
+  }
+]
